@@ -1,0 +1,10 @@
+<h1>Add Data</h1>
+<label for="name" >Name</label>
+<input type="text" placeholder="Name" id="name" [(ngModel)]="name">
+<label for="city">City</label>
+<input type="text" placeholder="City" id="city"[(ngModel)]="city">
+<label for="orderTotal">Order Total</label>
+<input type="number" placeholder="Order Total" id="orderTotal" [(ngModel)]="orderTotal">
+<button (click)="add()" routerLink="/customers">Add</button>
+<br>
+<a [routerLink]="['/customers']">Back</a>

@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "ted James",
+    "city": " Phoenix ",
+    "orderTotal": 40.99
+  },
+  {
+    "id": 2,
+    "name": "Michelle Thompson",
+    "city": "Los Angeles ",
+    "orderTotal": 89.99
+  },
+  {
+    "id": 3,
+    "name": "James Thomas",
+    "city": " Las Vegas ",
+    "orderTotal": 29.99
+  },
+  {
+    "id": 4,
+    "name": "Tina Adams",
+    "city": "Seattle",
+    "orderTotal": 15.99
+  },
+  {
+    "id": 5,
+    "name": "asdasd",
+    "city": "sadasd",
+    "orderTotal": 546,
+    "customerSince": 2019
+  },
+  {
+    "id": 6,
+    "name": "Aman ",
+    "city": "Mumbai",
+    "orderTotal": 789,
+    "customerSince": 2019
+  },
+  {
+    "id": 7,
+    "name": "Aman",
+    "city": "Coimbatore",
+    "orderTotal": 897,
+    "customerSince": 2019
+  },
+  {
+    "id": 8,
+    "name": "afef",
+    "city": "fwef",
+    "orderTotal": 777,
+    "customerSince": 2019
+  },
+  {
+    "id": 9,
+    "name": "efwef",
+    "city": "efwefewf",
+    "orderTotal": 879,
+    "customerSince": 2019
+  },
+  {
+    "id": 10,
+    "name": "fddf",
+    "city": "sdfsdf",
+    "orderTotal": 897,
+    "customerSince": 2019
+  },
+  {
+    "id": 11,
+    "name": "dsfsdfsd",
+    "city": "dfsdfds",
+    "orderTotal": 68,
+    "customerSince": 2019
+  },
+  {
+    "id": 12,
+    "name": "dfafda",
+    "city": "dfadf",
+    "orderTotal": 89,
+    "customerSince": 2019
+  },
+  {
+    "id": 13,
+    "name": "afdadf",
+    "city": "fdsadf",
+    "orderTotal": 789,
+    "customerSince": 2019
+  },
+  {
+    "id": 14,
+    "name": "fadf",
+    "city": "dfsdf",
+    "orderTotal": 897,
+    "customerSince": 2019
+  },
+  {
+    "id": 15,
+    "name": "fddfsdf",
+    "city": "dfsdf",
+    "orderTotal": 15,
+    "customerSince": 2019
+  },
+  {
+    "id": 16,
+    "name": "dfgdfg",
+    "city": "ggrg",
+    "orderTotal": 789778789,
+    "customerSince": 2019
+  },
+  {
+    "id": 17,
+    "name": "cas",
+    "city": "sdasd",
+    "orderTotal": 87789,
+    "customerSince": 2019
+  },
+  {
+    "id": 18,
+    "name": "zczxc",
+    "city": "zdczdc",
+    "orderTotal": 978,
+    "customerSince": 2019
+  },
+  {
+    "id": 19,
+    "name": "cvcv",
+    "city": "cvxcv",
+    "orderTotal": 46,
+    "customerSince": 2019
+  }
+]
